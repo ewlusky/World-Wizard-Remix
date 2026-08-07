@@ -1,10 +1,10 @@
-# [WORKING TITLE — being renamed]
+# World Wizard Remix
 
 A collaborative, Age-structured worldbuilding game for 2–7 players. No GM. No preset world. Just a hex map, some index cards, and the accumulated weight of everything your group has made — and broken.
 
 > *You are a Steward. Not a character. Not a Game Master. A caretaker of a world in progress.*
 
-**Status:** Active design. Pre-playtesting. **Not public, and not publishable under this name.** See below.
+**Status:** Active design, pre-playtesting. Public as a design track, not as a finished game.
 
 ---
 
