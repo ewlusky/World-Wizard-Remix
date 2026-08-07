@@ -32,7 +32,7 @@
 - **Pushing** — a player can challenge another's contribution; actor either revises or stands firm; group votes; ties go to the actor. "Collaboration through the medium of the game, rather than through open discussion."
 - **Fractal:** Period → Event → Scene, can zoom in or out non-chronologically
 
-**What we're taking:** Palette (silences Aayla-protection problem), Legacy Threads, Pushing  
+**What we're taking:** Palette (solves the young-player content-boundary problem), Legacy Threads, Pushing  
 **What we're not:** Full fractal structure is too abstract for casual family play; Microscope is dense, ours needs to stay scannable
 
 ---
