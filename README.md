@@ -1,16 +1,28 @@
-# WorldWizard
+# [WORKING TITLE — being renamed]
 
 A collaborative, Age-structured worldbuilding game for 2–7 players. No GM. No preset world. Just a hex map, some index cards, and the accumulated weight of everything your group has made — and broken.
 
 > *You are a Steward. Not a character. Not a Game Master. A caretaker of a world in progress.*
 
-**Status:** Active design. Pre-playtesting. Not yet ready for public release.
+**Status:** Active design. Pre-playtesting. **Not public, and not publishable under this name.** See below.
+
+---
+
+## ⚠️ Attribution, up front
+
+**This is a hack of [Worldwizard](https://lampblack-brimstone.itch.io/worldwizard) by [Lampblack & Brimstone](https://lampblack-brimstone.itch.io/).** The Steward role, the hex map, the Action Point economy, and the Age progression all come from their game. **Go buy it — it's $5 on itch.io.**
+
+This variant was built to solve one specific problem: playing the original with a household where not everyone arrived interested in worldbuilding. Most of what's been added exists to keep a long collaborative game welcoming to a reluctant player.
+
+**Full attribution, plus what came from where, is in [CREDITS.md](CREDITS.md).**
+
+This project is being renamed before any public release. Lampblack & Brimstone have not endorsed it and are not affiliated with it.
 
 ---
 
 ## What this repo is
 
-The design track for the publishable edition of WorldWizard — a fork of the family game currently running in *The Unending Sea* (private vault, not in this repo). The family game is the proving ground; this is the game everyone else can play.
+The design track for a publishable edition — a fork of the house variant that's been running at home for a while. The home game is the proving ground; this is the version meant for strangers.
 
 ## How to navigate
 

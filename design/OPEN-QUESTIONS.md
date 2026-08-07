@@ -35,3 +35,30 @@
 - **Family variant.** Explicit "simplified" variant for younger/casual players in the back of the book? Or a single ruleset that scales?
 - **License.** CC-BY-SA, full commercial copyright, something else?
 - **Companion app tier.** Free QR-code tier vs. paid unlock for richer features — where's the line?
+
+---
+
+## 🔴 BLOCKER: the name (opened 2026-08-07)
+
+This project cannot be published as "WorldWizard." That is the title of the game it hacks — [Worldwizard by Lampblack & Brimstone](https://lampblack-brimstone.itch.io/worldwizard), $5 on itch.io, 1-8 players.
+
+Titles are not copyrightable, but shipping a same-genre, same-format, print-and-play worldbuilding game under an identical name is a trademark problem and, more simply, the wrong thing to do. Attribution is now in [CREDITS.md](../CREDITS.md); the rename is still open.
+
+### Candidate names
+
+Drawn from what this variant actually adds — the accumulating map, the Kith, language that drifts and dies, and the shrinking Now.
+
+| Name | Where it comes from |
+|---|---|
+| **Made and Broken** | Straight from the README: *"the accumulated weight of everything your group has made — and broken"* |
+| **What the Map Remembers** | The map is canon; things that fade leave marks |
+| **The Shrinking Now** | The logarithmic Age structure, which is the biggest single divergence |
+| **Kithmaking** | The Kith layer — ordinary mortals weighted equally with gods |
+| **The Long Fade** | Fade-rather-than-elimination, and languages dying |
+| **Everything We Made** | Warmer, family-table register |
+
+### Also to decide
+
+- **Rename the GitHub repo** as well (`ewlusky/worldwizard` → new slug). GitHub redirects the old URL automatically.
+- **Email Lampblack & Brimstone.** Costs nothing, and many indie TTRPG creators are actively glad to see hacks. A yes turns a gray area into a clean collaboration and possibly a signal boost. A no is worth knowing before investing more.
+- **License.** Currently unlicensed, which means all rights reserved — the right default if commercial release is ever on the table.
