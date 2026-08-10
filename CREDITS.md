@@ -2,7 +2,7 @@
 
 ## This game is a hack
 
-This project began as a house variant of **[Worldwizard](https://lampblack-brimstone.itch.io/worldwizard)** by **Lampblack & Brimstone**, a print-and-play collaborative worldbuilding game for 1-8 players.
+This project began as a house variant of **[Worldwizard](https://lampblack-brimstone.itch.io/worldwizard)**, designed by **Jason Lutes** and published by **Lampblack & Brimstone** (Vermont, U.S.A.), a print-and-play collaborative worldbuilding game for 2-10 players.
 
 **If you like what's here, buy the original first.** It is $5 or more on itch.io and it is where this started.
 
@@ -40,13 +40,15 @@ Studied during design, with notes in [`reference/GAMES-RESEARCH.md`](reference/G
 
 - **Microscope** (Ben Robbins) — the Palette mechanic, which solves content boundaries for mixed-age tables
 - **The Quiet Year** (Avery Alder) — the map as accumulating artifact
-- **Dawn of Worlds** — the Action Point and Age framework this genre shares
+- **Dawn of Worlds** (N. Bob Pesall) — the Action Point and Age framework this genre shares. Worth stating plainly: Worldwizard credits Dawn of Worlds as its own inspiration, alongside the board game *History of the World*. So this is a hack of a hack, which is how this corner of the hobby has always worked.
 - **Wanderhome** (Jay Dragon) — token economy, and the idea that small lives carry weight
 
 ## On rights
 
 Game **mechanics and systems** are not protected by copyright in the US; **specific rules text, art, and layout** are. Everything written in this repository is original text. No rules language, art, or layout from Worldwizard has been reproduced here.
 
-The name is a separate question, and this project is being renamed for exactly that reason. See [`design/OPEN-QUESTIONS.md`](design/OPEN-QUESTIONS.md).
+That claim was verified on 2026-08-09 by comparing this repository's text against the original book directly. What overlaps is terminology and mechanics — Steward, Action Points, Action Tally, Avatar, People, Faction, Feature, the five Alignments, the four Age names, the dice used per Age. Those are systems and short functional term lists, not protected expression. Every sentence here was written from scratch.
+
+The name was the separate question, and it is settled: this project is titled **World Wizard Remix**, because "Remix" is the established convention for a declared hack and puts the derivative status in the title itself. See [`design/OPEN-QUESTIONS.md`](design/OPEN-QUESTIONS.md).
 
 **Lampblack & Brimstone have not endorsed this project and are not affiliated with it.**
