@@ -14,6 +14,7 @@ It lives in the genre of *Dawn of Worlds*, *Microscope*, *The Quiet Year*, and *
 
 ## The core design values
 
+0. **Taking a turn must be easy to start.** A blank map plus "invent something" is the hardest prompt in the game, and some players freeze in front of it. The wheel, the right to skip, and the Quiet Turn exist to narrow the first decision so the player gets to the enjoyable second one. This is listed first because it is the oldest value in the design and the one most likely to be optimized away by someone who cannot see what it holds up. See [ADR-001](ADR-001-the-low-barrier-turn.md).
 1. **The map is canon.** Anything drawn on the map is real. The game's history lives in the physical artifact, not in notes.
 2. **Mess is interesting.** The best mechanics are the ones that make creations *more complicated*, not more powerful. Complicate rewards trouble. Price of Passing rewards risk.
 3. **Small things matter.** A named Kith (ordinary mortal) does more worldbuilding work than a thousand-year dynasty. Design for the ground level, not just the gods.
@@ -49,15 +50,20 @@ Actions must feel true to their Age's Now scale. An Age II action that plants a 
 | LAND | 🌍 | Shape terrain, add or enchant features |
 | LIFE | 🧬 | Birth peoples, create avatars, expand territory, deeds, group endeavors |
 | MAGIC | ✨ | Invest Sparks, open Breaches, bind spirits |
-| LANGUAGE | 📜 | Coin words, gift names, evolve speech, let a language die *(TBD)* |
+| LANGUAGE | 📜 | Coin words, gift names, evolve speech, let a language die *(actions TBD — but see below)* |
 | COMPLICATE | 🪞 | Add a flaw/contradiction/mystery/rift/limitation/sorrow to your own creation for +1 AP |
 | OTHER | 💥 | Pass (disaster on your own stuff for more AP), meta-actions |
 
 COMPLICATE is promoted from "tucked into OTHER" in the family game to its own family here. It's one of the defining mechanics.
 
+**On LANGUAGE: the content already exists, only the actions are missing.** [`../languages/`](../languages/) holds **twelve fully constructed tongues** — phonology, grammar rules, naming conventions, core vocabulary, everyday phrases and idioms, each with a distinct real-world root inspiration. That is a finished asset, not a plan. So the design problem is not "invent a language system," it is "write 4 to 6 actions that let a table touch these." Build the rules to fit the languages, not the reverse. Any LANGUAGE action that could not operate on Velthari or Brakthal as written is the wrong action.
+
 ---
 
 ## Key mechanics to build
+
+### 🎡 The Wheel (already built and played — needs a shipped form)
+A physical spinner whose segments are table names. Spin it and it tells you *which table* to consult; roll on it, pick from it, or ignore it. Presented as a permanent equal fork with 🎯 Choose, never as a beginner ramp. This is the mechanic a new player meets first and the entry point the whole accessibility spine hangs off. Mapping and per-Age segment sets in [`../tables/WHEEL.md`](../tables/WHEEL.md); rationale in [ADR-001](ADR-001-the-low-barrier-turn.md). **Open:** printed wheel, card deck, or build-your-own instructions.
 
 ### The Frost Shepherds (Age end is hidden)
 At Age start, deal N face-down index cards (N = target tally). Shuffle one ⚡ **Age Turns** card into the last 5. Flip one per turn. When ⚡ comes up, play that turn out, then run the Survival Round. A Steward may spend 3 AP to peek and reorder the stack (prophecy). *(Adapted from The Quiet Year.)*

@@ -13,7 +13,7 @@
 
 ## Language family
 
-- **Own action family (📜) or a cross-cutting modifier?** The LANGUAGE family feels right but needs 4–6 concrete actions. What are they?
+- **Own action family (📜) or a cross-cutting modifier?** The LANGUAGE family feels right but needs 4–6 concrete actions. What are they? ⚠️ **Note 2026-08-09: the twelve languages are already written** and live in [`../languages/`](../languages/), complete with phonology, grammar, vocabulary, phrases and idioms. This question is only about the *actions*. Design them to fit the existing tongues; an action that cannot operate on Velthari or Brakthal as written is the wrong action.
 - **Sound-shifts across Ages.** When a People splits into two, does their language fork? If a People Fades, what's left of their language?
 - **Writing systems.** A late-Age invention. Does discovering writing change the Language mechanics? Legacy Threads? The compendium?
 - **Polyglot play.** Should speaking in-world coined words at the table do anything mechanically?
@@ -32,7 +32,7 @@
 - **Name.** "WorldWizard" is working title. More evocative options?
 - **Starter world.** Does the game ship with a sample Primordial setup, or is it pure scaffolding?
 - **Map medium.** Hex paper, region cards, or medium-agnostic? The family game uses physical hex paper on a whiteboard — does the published game assume that, recommend it, or leave it open?
-- **Family variant.** Explicit "simplified" variant for younger/casual players in the back of the book? Or a single ruleset that scales?
+- ~~**Family variant.** Explicit "simplified" variant for younger/casual players in the back of the book? Or a single ruleset that scales?~~ ✅ **RESOLVED 2026-08-09 by [ADR-001](ADR-001-the-low-barrier-turn.md): a single ruleset that scales.** A quarantined "simplified" variant reintroduces exactly the self-consciousness the wheel and the Quiet Turn exist to remove. The accessibility affordances live in the core turn sequence, available to everyone, marked as nobody's easy mode.
 - **License.** CC-BY-SA, full commercial copyright, something else?
 - **Companion app tier.** Free QR-code tier vs. paid unlock for richer features — where's the line?
 

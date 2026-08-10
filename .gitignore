@@ -1,0 +1,10 @@
+# Working source material. NEVER commit this directory.
+#
+# It holds the original Worldwizard PDFs by Lampblack & Brimstone, which are a
+# paid product ($5 on itch.io). This repo is public; publishing their files here
+# would be redistributing the game we are asking people to go buy.
+#
+# It also holds the raw .docx drafts this project is being ported from. Those are
+# Evan's own work and can be moved into tracked folders deliberately, one at a
+# time, as they are converted. Nothing gets published by accident.
+_source/
