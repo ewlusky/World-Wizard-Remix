@@ -1,4 +1,10 @@
-# Actions
+# Actions — Age II: Prehistoric
+
+> *Hundreds of thousands of years. The world is made; now it wakes up. The first Peoples walk out of the landscape that shaped them, and legends are born before there are libraries to keep them in.*
+
+**AP: 2d6.** Roll once for the Age. **Tally: 14.**
+
+Other Ages: [I Primordial](07-age-i-primordial.md) · [III Ancient](08-age-iii-ancient.md) · [IV Present](09-age-iv-present.md)
 
 Four families. Pick one, spend the AP, make the thing.
 

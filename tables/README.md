@@ -24,6 +24,8 @@ Ported 2026-08-09 from `LatestWorldWizardTables.docx`, the master document behin
 
 Table 15 was unnumbered in the source, appearing between 13 and 14 under the heading "Inhabitants". It is numbered 15 here to avoid a collision.
 
+**Also here:** [supplementary.md](supplementary.md) — the small action-specific tables the fifteen do not cover. Wellspring Types, Spark Domains, Beyond the Veil, Disaster Scope, the faction generator, magical anomalies and magical catastrophes. Disaster Scope in particular is rolled every single time someone Passes.
+
 ## How to use them
 
 Rolling is never mandatory. In order of preference at the table:

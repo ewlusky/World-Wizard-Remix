@@ -21,8 +21,12 @@ All notable rule changes and design decisions are recorded here.
 ### Resolved
 - **Family variant** question closed in favour of a single ruleset that scales. A quarantined "simplified" mode reintroduces the self-consciousness the accessibility rules exist to remove.
 
-### Still missing
-- Age-specific action tables for Ages I, III and IV. The port covers the Prehistoric Age, which is the most developed in the source and the pattern the others were being refactored toward.
+### Also added, same day — all four Ages now ported
+- **`rulebook/07-age-i-primordial.md`**, **`08-age-iii-ancient.md`**, **`09-age-iv-present.md`**. Ages III and IV existed only in the older ruleset document, not in the vault. All three were restructured into the icon families used in Age II, which is the refactor the family edition's own design notes proposed and never got to. No action, cost, or effect changed; grouping is the only difference, and each file says so.
+- **`tables/supplementary.md`** — the action-specific tables the main fifteen do not cover: Wellspring Types, Spark Domains, Beyond the Veil, **Disaster Scope**, the faction generator, magical anomalies, magical catastrophes. Disaster Scope matters most: the Price of Passing rolls it every time, and the rulebook was already linking to a table that did not exist here yet.
+- Age II keeps the filename `02-actions.md` and gains its Age header, AP, Tally and cross-Age navigation.
+
+The rulebook is now playable start to finish.
 
 ---
 

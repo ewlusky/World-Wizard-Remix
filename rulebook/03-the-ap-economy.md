@@ -7,7 +7,7 @@ Action Points are the only currency. You roll them once per Age and spend them d
 You can always Pass for more AP. The world does not give you time for free.
 
 1. Roll 1d6. Gain that many AP, plus 1 for every 2 Avatars, magic sources, or Peoples you control.
-2. Roll on [Table 9: Disasters](../tables/09-disasters.md) and on the Disaster Scope table.
+2. Roll on [Table 9: Disasters](../tables/09-disasters.md) and on [Disaster Scope](../tables/supplementary.md#disaster-scope).
 3. **The disaster lands on something of yours.** Pick 4 of your own creations the rolled disaster could plausibly strike, then roll 1d4 to see which one takes it. Follow whatever the disaster implies and change the map accordingly.
 4. **Describe it in detail.** You did not get those AP for nothing.
 5. **Bold the hex.** Darken the lines around one hex at the disaster's location so the scar is visible on the map forever.
