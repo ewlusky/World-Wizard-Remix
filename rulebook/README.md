@@ -18,6 +18,9 @@ Two things were changed in the port, both deliberate:
 | [04-reference.md](04-reference.md) | Stewardship, Development Levels, Alignment, War, Deeds, Currents and Nexuses |
 | [05-ending-an-age.md](05-ending-an-age.md) | The Survival Round and what happens to magic between Ages |
 | [06-log-sheet.md](06-log-sheet.md) | Blank tables for recording play |
+| [10-language.md](10-language.md) | 📜 **LANGUAGE** — the Compendium and seven actions. **Applies in every Age.** |
+
+For a single sheet to put in front of a player, use [`../print/player-reference.md`](../print/player-reference.md).
 
 **The four Ages**, each with its own action list:
 

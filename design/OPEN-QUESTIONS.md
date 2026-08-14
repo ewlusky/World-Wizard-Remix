@@ -13,10 +13,14 @@
 
 ## Language family
 
-- **Own action family (📜) or a cross-cutting modifier?** The LANGUAGE family feels right but needs 4–6 concrete actions. What are they? ⚠️ **Note 2026-08-09: the twelve languages are already written** and live in [`../languages/`](../languages/), complete with phonology, grammar, vocabulary, phrases and idioms. This question is only about the *actions*. Design them to fit the existing tongues; an action that cannot operate on Velthari or Brakthal as written is the wrong action.
-- **Sound-shifts across Ages.** When a People splits into two, does their language fork? If a People Fades, what's left of their language?
-- **Writing systems.** A late-Age invention. Does discovering writing change the Language mechanics? Legacy Threads? The compendium?
-- **Polyglot play.** Should speaking in-world coined words at the table do anything mechanically?
+✅ **RESOLVED 2026-08-09 — the family is written: [`../rulebook/10-language.md`](../rulebook/10-language.md).** Seven actions, available in every Age, built to fit the twelve tongues that already existed.
+
+- ~~**Own action family (📜) or a cross-cutting modifier?**~~ **Own family.** Assign a Tongue, Coin a Word, Gift a Name, Sound-Shift, Take a Loanword, Invent Writing, Let a Tongue Die.
+- ~~**Sound-shifts across Ages.**~~ **A split forks the tongue** — both Stewards shift independently from then on and the branches diverge for the rest of the game. **The old form stays on the map**; only the Compendium gets the new one, and both are canon. **When a People Fades**, their words remain but become unreadable unless the tongue was written; words already taken as loanwords by other peoples survive and are the only living trace.
+- ~~**Writing systems.**~~ **Writing freezes a tongue.** A written language can never Sound-Shift again. Permanence bought with change, and it makes an unwritten language something that takes everything with it when it goes.
+- ~~**Polyglot play.** Should speaking in-world coined words at the table do anything mechanically?~~ **No, on principle.** Paying players to perform aloud taxes precisely the person [ADR-001](ADR-001-the-low-barrier-turn.md) exists to protect: saying a word you invented in front of people is a harder ask than inventing it, and pricing it turns a shy table into a quiet table that is also now losing. Say the words if you enjoy saying them; nothing depends on it.
+
+**Still open here:** whether the Compendium wants a printed sheet or stays an instruction, and whether a coined word should interact with Legacy Threads once those exist.
 
 ## Rules details
 

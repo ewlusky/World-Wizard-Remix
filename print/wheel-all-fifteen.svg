@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 892" width="7.5in" height="8.16in" role="img" aria-label="The Wheel, a spinner with 15 segments">
+<style>text{font-family:Georgia,"Iowan Old Style",serif;fill:#1a1208}.seg{stroke:#1a1208;stroke-width:2.2}.ttl{font-size:26px;font-weight:700;text-anchor:middle}.note{font-size:14px;text-anchor:middle;fill:#4a3c28}</style>
+<rect width="100%" height="100%" fill="#fbf7ef"/>
+<text class="ttl" x="410.0" y="40">The Wheel</text>
+<path class="seg" d="M 410.00 466.00 L 410.00 106.00 A 360.00 360.00 0 0 1 556.43 137.12 Z" fill="#e59393"/>
+<path class="seg" d="M 410.00 466.00 L 556.43 137.12 A 360.00 360.00 0 0 1 677.53 225.11 Z" fill="#e5af93"/>
+<path class="seg" d="M 410.00 466.00 L 677.53 225.11 A 360.00 360.00 0 0 1 752.38 354.75 Z" fill="#e5cc93"/>
+<path class="seg" d="M 410.00 466.00 L 752.38 354.75 A 360.00 360.00 0 0 1 768.03 503.63 Z" fill="#e3e593"/>
+<path class="seg" d="M 410.00 466.00 L 768.03 503.63 A 360.00 360.00 0 0 1 721.77 646.00 Z" fill="#c6e593"/>
+<path class="seg" d="M 410.00 466.00 L 721.77 646.00 A 360.00 360.00 0 0 1 621.60 757.25 Z" fill="#aae593"/>
+<path class="seg" d="M 410.00 466.00 L 621.60 757.25 A 360.00 360.00 0 0 1 484.85 818.13 Z" fill="#93e598"/>
+<path class="seg" d="M 410.00 466.00 L 484.85 818.13 A 360.00 360.00 0 0 1 335.15 818.13 Z" fill="#93e5b5"/>
+<path class="seg" d="M 410.00 466.00 L 335.15 818.13 A 360.00 360.00 0 0 1 198.40 757.25 Z" fill="#93e5d1"/>
+<path class="seg" d="M 410.00 466.00 L 198.40 757.25 A 360.00 360.00 0 0 1 98.23 646.00 Z" fill="#93dde5"/>
+<path class="seg" d="M 410.00 466.00 L 98.23 646.00 A 360.00 360.00 0 0 1 51.97 503.63 Z" fill="#93c1e5"/>
+<path class="seg" d="M 410.00 466.00 L 51.97 503.63 A 360.00 360.00 0 0 1 67.62 354.75 Z" fill="#93a5e5"/>
+<path class="seg" d="M 410.00 466.00 L 67.62 354.75 A 360.00 360.00 0 0 1 142.47 225.11 Z" fill="#9e93e5"/>
+<path class="seg" d="M 410.00 466.00 L 142.47 225.11 A 360.00 360.00 0 0 1 263.57 137.12 Z" fill="#ba93e5"/>
+<path class="seg" d="M 410.00 466.00 L 263.57 137.12 A 360.00 360.00 0 0 1 410.00 106.00 Z" fill="#d693e5"/>
+<g transform="translate(410.0,466.0) rotate(-78.00)"><text x="46" y="0" font-size="15" text-anchor="start" dominant-baseline="middle">Mundane Terrain</text></g>
+<g transform="translate(410.0,466.0) rotate(-54.00)"><text x="46" y="0" font-size="15" text-anchor="start" dominant-baseline="middle">Magical Terrain</text></g>
+<g transform="translate(410.0,466.0) rotate(-30.00)"><text x="46" y="0" font-size="15" text-anchor="start" dominant-baseline="middle">Dramatic Features</text></g>
+<g transform="translate(410.0,466.0) rotate(-6.00)"><text x="46" y="0" font-size="15" text-anchor="start" dominant-baseline="middle">Peoples</text></g>
+<g transform="translate(410.0,466.0) rotate(18.00)"><text x="46" y="0" font-size="15" text-anchor="start" dominant-baseline="middle">Avatars</text></g>
+<g transform="translate(410.0,466.0) rotate(42.00)"><text x="46" y="0" font-size="15" text-anchor="start" dominant-baseline="middle">Sources of Magic</text></g>
+<g transform="translate(410.0,466.0) rotate(66.00)"><text x="46" y="0" font-size="15" text-anchor="start" dominant-baseline="middle">Significant Species</text></g>
+<g transform="translate(410.0,466.0) rotate(90.00)"><text x="46" y="0" font-size="15" text-anchor="start" dominant-baseline="middle">Events</text></g>
+<g transform="translate(410.0,466.0) rotate(294.00)"><text x="-46" y="0" font-size="15" text-anchor="end" dominant-baseline="middle">Disasters</text></g>
+<g transform="translate(410.0,466.0) rotate(318.00)"><text x="-46" y="0" font-size="15" text-anchor="end" dominant-baseline="middle">Significant Locales</text></g>
+<g transform="translate(410.0,466.0) rotate(342.00)"><text x="-46" y="0" font-size="15" text-anchor="end" dominant-baseline="middle">Magical Structures</text></g>
+<g transform="translate(410.0,466.0) rotate(366.00)"><text x="-46" y="0" font-size="15" text-anchor="end" dominant-baseline="middle">Artifacts &amp; Relics</text></g>
+<g transform="translate(410.0,466.0) rotate(390.00)"><text x="-46" y="0" font-size="15" text-anchor="end" dominant-baseline="middle">Significant Beings</text></g>
+<g transform="translate(410.0,466.0) rotate(414.00)"><text x="-46" y="0" font-size="15" text-anchor="end" dominant-baseline="middle">Species</text></g>
+<g transform="translate(410.0,466.0) rotate(438.00)"><text x="-46" y="0" font-size="15" text-anchor="end" dominant-baseline="middle">Inhabitants</text></g>
+<circle cx="410.0" cy="466.0" r="34" fill="#fbf7ef" stroke="#1a1208" stroke-width="2.2"/>
+<circle cx="410.0" cy="466.0" r="4.5" fill="#1a1208"/>
+<path d="M 393.0 76.0 L 427.0 76.0 L 410.0 112.0 Z" fill="#1a1208"/>
+<text class="note" x="410.0" y="882">Spin, then roll or pick on the table it lands on. Or ignore it and use your own idea. Making something up is always allowed.</text>
+</svg>

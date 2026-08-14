@@ -50,13 +50,19 @@ Actions must feel true to their Age's Now scale. An Age II action that plants a 
 | LAND | 🌍 | Shape terrain, add or enchant features |
 | LIFE | 🧬 | Birth peoples, create avatars, expand territory, deeds, group endeavors |
 | MAGIC | ✨ | Invest Sparks, open Breaches, bind spirits |
-| LANGUAGE | 📜 | Coin words, gift names, evolve speech, let a language die *(actions TBD — but see below)* |
+| LANGUAGE | 📜 | Coin words, gift names, evolve speech, let a language die — **[written](../rulebook/10-language.md)** |
 | COMPLICATE | 🪞 | Add a flaw/contradiction/mystery/rift/limitation/sorrow to your own creation for +1 AP |
 | OTHER | 💥 | Pass (disaster on your own stuff for more AP), meta-actions |
 
 COMPLICATE is promoted from "tucked into OTHER" in the family game to its own family here. It's one of the defining mechanics.
 
-**On LANGUAGE: the content already exists, only the actions are missing.** [`../languages/`](../languages/) holds **twelve fully constructed tongues** — phonology, grammar rules, naming conventions, core vocabulary, everyday phrases and idioms, each with a distinct real-world root inspiration. That is a finished asset, not a plan. So the design problem is not "invent a language system," it is "write 4 to 6 actions that let a table touch these." Build the rules to fit the languages, not the reverse. Any LANGUAGE action that could not operate on Velthari or Brakthal as written is the wrong action.
+**✅ LANGUAGE is written** — see [`../rulebook/10-language.md`](../rulebook/10-language.md). Seven actions built to fit the twelve existing tongues in [`../languages/`](../languages/) rather than the reverse: Assign a Tongue, Coin a Word, Gift a Name, Sound-Shift, Take a Loanword, Invent Writing, Let a Tongue Die. Available in every Age, because language is the one thing that survives everything else.
+
+Three pieces of it are load-bearing and should not be trimmed:
+
+- **Gift a Name** lets you name *another Steward's* creation in your tongue. It is the cheapest cooperative action in the game and it writes contact between peoples directly onto the map.
+- **Sound-Shift leaves the old form on the map.** Ink does not drift. A hex labelled in a form nobody says any more is free history and costs nothing to produce.
+- **Writing freezes a tongue.** A written language can never Sound-Shift again. That is the trade: permanence for change. It also answers the writing-systems open question with a real mechanical consequence instead of a flavour note.
 
 ---
 

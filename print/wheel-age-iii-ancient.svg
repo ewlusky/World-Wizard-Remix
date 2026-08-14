@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 892" width="7.5in" height="8.16in" role="img" aria-label="The Wheel — Age III, Ancient, a spinner with 12 segments">
+<style>text{font-family:Georgia,"Iowan Old Style",serif;fill:#1a1208}.seg{stroke:#1a1208;stroke-width:2.2}.ttl{font-size:26px;font-weight:700;text-anchor:middle}.note{font-size:14px;text-anchor:middle;fill:#4a3c28}</style>
+<rect width="100%" height="100%" fill="#fbf7ef"/>
+<text class="ttl" x="410.0" y="40">The Wheel — Age III, Ancient</text>
+<path class="seg" d="M 410.00 466.00 L 410.00 106.00 A 360.00 360.00 0 0 1 590.00 154.23 Z" fill="#e59393"/>
+<path class="seg" d="M 410.00 466.00 L 590.00 154.23 A 360.00 360.00 0 0 1 721.77 286.00 Z" fill="#e5b693"/>
+<path class="seg" d="M 410.00 466.00 L 721.77 286.00 A 360.00 360.00 0 0 1 770.00 466.00 Z" fill="#e5da93"/>
+<path class="seg" d="M 410.00 466.00 L 770.00 466.00 A 360.00 360.00 0 0 1 721.77 646.00 Z" fill="#cde593"/>
+<path class="seg" d="M 410.00 466.00 L 721.77 646.00 A 360.00 360.00 0 0 1 590.00 777.77 Z" fill="#aae593"/>
+<path class="seg" d="M 410.00 466.00 L 590.00 777.77 A 360.00 360.00 0 0 1 410.00 826.00 Z" fill="#93e59f"/>
+<path class="seg" d="M 410.00 466.00 L 410.00 826.00 A 360.00 360.00 0 0 1 230.00 777.77 Z" fill="#93e5c3"/>
+<path class="seg" d="M 410.00 466.00 L 230.00 777.77 A 360.00 360.00 0 0 1 98.23 646.00 Z" fill="#93e4e5"/>
+<path class="seg" d="M 410.00 466.00 L 98.23 646.00 A 360.00 360.00 0 0 1 50.00 466.00 Z" fill="#93c1e5"/>
+<path class="seg" d="M 410.00 466.00 L 50.00 466.00 A 360.00 360.00 0 0 1 98.23 286.00 Z" fill="#939ee5"/>
+<path class="seg" d="M 410.00 466.00 L 98.23 286.00 A 360.00 360.00 0 0 1 230.00 154.23 Z" fill="#ac93e5"/>
+<path class="seg" d="M 410.00 466.00 L 230.00 154.23 A 360.00 360.00 0 0 1 410.00 106.00 Z" fill="#cf93e5"/>
+<g transform="translate(410.0,466.0) rotate(-75.00)"><text x="46" y="0" font-size="15" text-anchor="start" dominant-baseline="middle">Magical Terrain</text></g>
+<g transform="translate(410.0,466.0) rotate(-45.00)"><text x="46" y="0" font-size="15" text-anchor="start" dominant-baseline="middle">Dramatic Features</text></g>
+<g transform="translate(410.0,466.0) rotate(-15.00)"><text x="46" y="0" font-size="15" text-anchor="start" dominant-baseline="middle">Sources of Magic</text></g>
+<g transform="translate(410.0,466.0) rotate(15.00)"><text x="46" y="0" font-size="15" text-anchor="start" dominant-baseline="middle">Peoples</text></g>
+<g transform="translate(410.0,466.0) rotate(45.00)"><text x="46" y="0" font-size="15" text-anchor="start" dominant-baseline="middle">Avatars</text></g>
+<g transform="translate(410.0,466.0) rotate(75.00)"><text x="46" y="0" font-size="15" text-anchor="start" dominant-baseline="middle">Significant Species</text></g>
+<g transform="translate(410.0,466.0) rotate(285.00)"><text x="-46" y="0" font-size="15" text-anchor="end" dominant-baseline="middle">Significant Beings</text></g>
+<g transform="translate(410.0,466.0) rotate(315.00)"><text x="-46" y="0" font-size="15" text-anchor="end" dominant-baseline="middle">Disasters</text></g>
+<g transform="translate(410.0,466.0) rotate(345.00)"><text x="-46" y="0" font-size="15" text-anchor="end" dominant-baseline="middle">Events</text></g>
+<g transform="translate(410.0,466.0) rotate(375.00)"><text x="-46" y="0" font-size="15" text-anchor="end" dominant-baseline="middle">Magical Structures</text></g>
+<g transform="translate(410.0,466.0) rotate(405.00)"><text x="-46" y="0" font-size="15" text-anchor="end" dominant-baseline="middle">Significant Locales</text></g>
+<g transform="translate(410.0,466.0) rotate(435.00)"><text x="-46" y="0" font-size="15" text-anchor="end" dominant-baseline="middle">Artifacts &amp; Relics</text></g>
+<circle cx="410.0" cy="466.0" r="34" fill="#fbf7ef" stroke="#1a1208" stroke-width="2.2"/>
+<circle cx="410.0" cy="466.0" r="4.5" fill="#1a1208"/>
+<path d="M 393.0 76.0 L 427.0 76.0 L 410.0 112.0 Z" fill="#1a1208"/>
+<text class="note" x="410.0" y="882">Terrain is set and expensive. Organisation is cheap.</text>
+</svg>

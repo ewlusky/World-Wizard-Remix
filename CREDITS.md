@@ -19,7 +19,7 @@ The foundation this is built on:
 
 ### What was developed here
 
-This variant grew out of playing the original with a household that included players who had never done worldbuilding and were not sure they wanted to. Most of what follows exists to solve that specific problem — keeping a long collaborative game welcoming to someone who did not come in excited about it.
+This variant grew out of playing the original at a table that included players who had never done worldbuilding and were not sure they wanted to. Most of what follows exists to solve that specific problem — keeping a long collaborative game welcoming to someone who did not come in excited about it.
 
 - **Logarithmic Age scaling** — seven Ages instead of four, each with a shrinking "Now," so a turn spans eons early and a single season by the end
 - **The Quiet Turn** — a free, ungated contribution requiring no Action Points, so a passing player can add a detail without committing to a full turn
